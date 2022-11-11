@@ -10,7 +10,8 @@ const holaAlCursoNPM = () => {
     console.log("Hola al curso NPM")
 }
 
-modeule.exports = {
+module.exports = {
  hola, 
- holaPersonalizado
+ holaPersonalizado,
+ holaAlCursoNPM
 }
